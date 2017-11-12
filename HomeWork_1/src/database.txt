@@ -1,0 +1,5 @@
+../data/dataset-CalheirosMoroRita-2017-1.csv
+../data/dataset-CalheirosMoroRita-2017.csv
+../data/Doc1.txt
+../data/Doc2.txt
+../data/Doc3.txt
